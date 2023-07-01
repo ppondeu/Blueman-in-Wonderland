@@ -1,2 +1,3 @@
 # -SFML-_Blueman_in_Wonderland
-ชิ้นงานนี้เป็นส่วนหนึ่งของรายวิชา 01076104 PROGRAMMING PROJECT คณะวิศวกรรมศาสตร์  ภาควิชาวิศวกรรมคอมพิวเตอร์ สถาบันเทคโนโลยีพระจอมเกล้า เจ้าคุณทหารลาดกระบัง
+# Game Name : Blue man in wonderland 
+# this game was created by using SFML library
